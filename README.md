@@ -6,3 +6,7 @@
 
 
 ## The Reconstruction Results
+
+<div>
+<img src="reconstruction.png" width="100%"/>
+</div>
